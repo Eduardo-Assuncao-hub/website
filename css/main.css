@@ -44,6 +44,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 
 audio, canvas, video {
     display: inline-block;
+    margin: 0 auto;
     *display: inline;
     *zoom: 1
 }
