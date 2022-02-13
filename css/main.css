@@ -771,7 +771,7 @@ table {
     font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: .75em;
     border-collapse: collapse;
-    border: 1px solid #bdc1c4
+    border: 1px solid black
 }
 
     table + table {
